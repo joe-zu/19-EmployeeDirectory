@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "Aileen Liang",
+        "role": "Legal Team Lead",
+        "department": "Legal",
+        "image":"./img/aileenliang.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Ahmed Rosario",
+        "role": "Software Engineer",
+        "department": "Engineering",
+        "image":"./img/ahmedrosario.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Akira Lee",
+        "role": "Senior Engineer",
+        "department": "Engineering",
+        "image":"./img/akiralee.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Ben Byrum",
+        "role": "Product Manager",
+        "department": "Engineering",
+        "image":"./img/benbyrum.jpg"
+    },
+    {
+        "id": 5,
+        "name": "David Whipps",
+        "role": "Web Developer",
+        "department": "Engineering",
+        "image":"./img/davidwhipps.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Erin Magbee",
+        "role": "Senior Designer",
+        "department": "Design",
+        "image":"./img/erinmagbee.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Gregory Israel",
+        "role": "Designer",
+        "department": "Design",
+        "image":"./img/gregoryisrael.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Jaclyn Hsiung",
+        "role": "Designer",
+        "department": "Design",
+        "image":"./img/jaclynhsiung.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Jean Levi",
+        "role": "Senior Designer",
+        "department": "Design",
+        "image":"./img/jeanlevi.jpg"
+    },    
+    {
+        "id": 10,
+        "name": "Luci Qi",
+        "role": "Designer",
+        "department": "Design",
+        "image":"./img/luciqi.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Lyandre Pierre",
+        "role": "Art Director",
+        "department": "Design",
+        "image":"./img/lyandrepierre.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Marc Ojai",
+        "role": "Designer",
+        "department": "Design",
+        "image":"./img/marcojai.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Pedro Rodriguez",
+        "role": "Legal Consultant",
+        "department": "Legal",
+        "image":"./img/pedrorodriguez.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Risa Hiyama",
+        "role": "Sales Person",
+        "department": "Sales",
+        "image":"./img/risahiyama.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Samantha Frances",
+        "role": "Sales Person",
+        "department": "Sales",
+        "image":"./img/samanthafrances.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Shimmy Young",
+        "role": "Creative Director",
+        "department": "Design",
+        "image":"./img/shimmyyoung.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Stephanie Lee",
+        "role": "Sotware Engineer",
+        "department": "Engineering",
+        "image":"./img/stephanielee.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Tim Enwrong",
+        "role": "Janitor",
+        "department": "Services",
+        "image":"./img/clown.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Vicki Tan",
+        "role": "Senior Engineer",
+        "department": "Engineering",
+        "image":"./img/vickitan.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Zach Bonds",
+        "role": "Product Manager",
+        "department": "Engineering",
+        "image":"./img/zachbonds.jpg"
+    }
+]
