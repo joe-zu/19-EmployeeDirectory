@@ -2,7 +2,7 @@
   "name": "staffdir",
   "version": "0.1.0",
   "private": true,
-  "hompage": "https://joe-zu.github.io/19-EmployeeDirectory/.",
+  "homepage": "https://joe-zu.github.io/19-EmployeeDirectory/.",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
